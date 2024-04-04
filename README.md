@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danlevison.danlevison" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ganeshdole" />
 
 <h1 align="center">Hi, I'm Ganesh 👋</h1>
 
