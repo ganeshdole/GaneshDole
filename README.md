@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ganesh 👋</h1>
 
-<h3 align="center">A passionate Front-End Developer from the UK</h3>
+<h3 align="center">A passionate Front-End Developer from the India</h3>
 <p align="center">Currently learning NextJs & Docker 👨‍🎓</p>
 
 <div align="center"> 
