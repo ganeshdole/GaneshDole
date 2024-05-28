@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ganesh 👋</h1>
 
 <h3 align="center">A passionate Front-End Developer from the India</h3>
-<p align="center">Currently learning NextJs & Docker 👨‍🎓</p>
+<!-- <p align="center">Currently learning NextJs & Docker 👨‍🎓</p> -->
 
 <div align="center"> 
   <a href="mailto:dole77770@gmail.com">
