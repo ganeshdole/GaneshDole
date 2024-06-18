@@ -21,5 +21,5 @@
 
 <h2 align="center">My Tech Stack✔️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,redux,tailwind,firebase,jest,github,docker)](https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,redux,tailwind,firebase,jest,github,docker,)](https://skillicons.dev"/>
 </div>
